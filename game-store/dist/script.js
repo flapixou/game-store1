@@ -1,3 +1,4 @@
+<body><script src="game-store/dist/script.js"></script>
 function searchGames() {
     const searchQuery = document.getElementById('search-bar').value.toLowerCase();
     const games = document.querySelectorAll('.game-card');
