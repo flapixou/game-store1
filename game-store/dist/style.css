@@ -1,3 +1,4 @@
+<head><link rel="stylesheet" href="game-store/dist/style.css">
 /* Assure-toi que la page puisse défiler si le contenu est plus grand que la fenêtre */
 body {
     overflow-y: auto; /* Permet le défilement vertical */
